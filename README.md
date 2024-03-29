@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)] 
+![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 <h1 align="center">Hi 👋, I'm Mary Jessica C. Tejero</h1>
 <h3 align="center">Passionate college student immersed in the world of coding, eager to learn and grow as a developer in Cebu, Philippines.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2343459/screenshots/14393709/media/1f76b38bfee6b1282cf8a1ec2b773f9c.gif">
