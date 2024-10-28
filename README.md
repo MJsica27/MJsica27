@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjsica27&label=Profile%20views&color=0e75b6&style=flat" alt="mjsica27" /> </p>
 
-- 🔭 I’m currently working on [WAS(Wildcats Academic Sync)](https://github.com/MJsica27/WAS)
+- 🔭 I’m currently working on my capstone project [QueueIt](https://github.com/MJsica27/QueueIt)
 
-- 🌱 I’m currently learning **Django and ReactJS**
+- 🌱 I’m currently learning **Springboot and ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MJsica27?tab=repositories](https://github.com/MJsica27?tab=repositories)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **ReactJS**
 
 - 📫 How to reach me **tejeromaryjessica27@gmail.com**
 
